@@ -67,4 +67,8 @@
    
    `pip install requirements.txt`
    
+
+After installation need to build api.setup.py:
+
+`python api.setup.py build_ext --inplace`
         
