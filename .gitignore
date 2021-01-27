@@ -1,6 +1,9 @@
-/.ipynb_checkpoints
+/notebooks/.ipynb_checkpoints
 /.idea
 /dependencies/portaudio
-/recording/data
-!/recording/data/master
-/build
+/app/recording/data
+!/app/recording/data/master
+/app/core/build
+/app/core/api.c
+/app/core/api.cpp
+/app/core/api.*.so
