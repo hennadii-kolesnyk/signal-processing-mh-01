@@ -1,8 +1,6 @@
 /notebooks/.ipynb_checkpoints
 /.idea
 /dependencies/portaudio
-/app/recording/data
-!/app/recording/data/master
 /app/core/build
 /app/core/api.c
 /app/core/api.cpp
